@@ -1,0 +1,5 @@
+context:
+    deep:
+      newContext:
+        container:
+          text: "Deep Merged Context"
